@@ -1,0 +1,20 @@
+{
+  "name": "typescript-learn",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "typescript",
+    "learning"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "A project for learning TypeScript",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
