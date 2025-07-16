@@ -6,8 +6,8 @@
     "build": "tsc",
     "start": "node dist/index.js",
     "dev": "tsc --watch",
-    "build:file": "tsc --outDir ./dist src/test.ts",
-    "start:file": "node dist/test.js"
+    "build:file": "tsc --outDir ./dist src/Type.ts",
+    "start:file": "node dist/Type.js"
   },
   "keywords": [
     "typescript",
